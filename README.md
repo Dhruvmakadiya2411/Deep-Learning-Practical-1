@@ -87,4 +87,5 @@ Then open `practical1.ipynb` and run all cells to verify that all outputs are di
 
 ## Author
 **Name:** Dhruv Makadiya
-**Email:** your.email@example.com
+**Email:** dhruvmakadiya800@gmail.com
+**Course:** B.Tech – Deep Learning Practical
